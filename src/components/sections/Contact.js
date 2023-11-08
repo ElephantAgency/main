@@ -21,9 +21,8 @@ const Contact = () => {
           <div className="animated-layer fade-in-down-animation fadeInUp wow">
             <i className="fa fa-phone" />
             <p>
-              <span className="small-text">phone</span>
+              <span className="small-text">phone / whatsapp</span>
               <a href="tel:14132134736">+1 413 213 4736</a><br></br>
-              (USA / Whatsapp)
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
