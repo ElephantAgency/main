@@ -22,7 +22,7 @@ const Contact = () => {
             <i className="fa fa-phone" />
             <p>
               <span className="small-text">phone</span>
-              +1 413 213 4736<br></br>
+              <a href="tel:14132134736">+1 413 213 4736</a><br></br>
               (USA / Whatsapp)
             </p>
           </div>
@@ -34,7 +34,7 @@ const Contact = () => {
             <i className="fa fa-envelope" />
             <p>
               <span className="small-text">email</span>
-              connect@elephantag.com
+              <a href="mailto:connect@elephantag.com">connect@elephantag.com</a>
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
