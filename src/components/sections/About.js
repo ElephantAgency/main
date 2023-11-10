@@ -33,7 +33,8 @@ const About = () => {
             </div>    
           </div>     
             <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                We are an app development agency with an extensive network of experienced developers.
+                We make beautiful apps.
+                <span style={{fontSize: ".75em"}}>Our international team is ready to turn your vision into reality.</span>  
             </span>
             </h2>
             {/* <h3>
