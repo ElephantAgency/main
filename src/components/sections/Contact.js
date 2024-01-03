@@ -22,22 +22,22 @@ const Contact = () => {
             <i className="fa fa-phone" />
             <p>
               <span className="small-text">phone / whatsApp</span>
-              <a href="tel:14132134736">+1 413 213 4736</a><br></br>
+              <a href="tel:14132134736">+1 413 213 4736</a>
+              <br></br>
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
         </div>
         <div>
           {/* CONTACT ITEM STARTS */}
-          <div className="animated-layer fade-in-down-animation fadeInUp wow">
+          {/* <div className="animated-layer fade-in-down-animation fadeInUp wow">
             <i className="fa fa-envelope" />
             <p>
               <span className="small-text">email</span>
               <a href="mailto:connect@elephantag.com">connect@elephantag.com</a>
             </p>
-          </div>
+          </div> */}
           {/* CONTACT ITEM ENDS */}
-
         </div>
       </div>
       {/* CONTACTS ENDS */}
