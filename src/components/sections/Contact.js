@@ -22,7 +22,7 @@ const Contact = () => {
             <i className="fa fa-phone" />
             <p>
               <span className="small-text">phone / whatsApp</span>
-              <a href="tel:14132134736">+1 413 213 4736</a>
+              <a href="tel:11111111111">+1 111 111 1111</a>
               <br></br>
             </p>
           </div>
